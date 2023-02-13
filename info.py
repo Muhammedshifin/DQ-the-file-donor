@@ -20,7 +20,7 @@ BOT_TOKEN = "5725740361:AAGmC9u2jW8pNoEzD7xm2CpCx66cVa9MQg0"
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
-18302370
+
 PICS = (environ.get('PICS', 'https://telegra.ph/file/85298dff67a70a8f13cac.jpg https://telegra.ph/file/86e717de1ac1b14adcad3.jpg https://telegra.ph/file/12fd8e4838fa0c3881bf2.jpg')).split()
 
 
