@@ -191,6 +191,17 @@ Nᴀᴍᴇ - {}"""
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
     CAPTION = """
+<i><b>{file_name}</b></i>
+
+<i><b>✯ File size </b></i>:<i><b> {file_size}</b></i>
+
+<i><b>✯ Uploaded By @MaSTeR_filims
+•────•────•────•
+Join ➪ @MaSTeR_filims
+Join ➪ @MaSTeR_filims
+•────•────•────•
+ᴊᴏɪɴ ★ ꜱʜᴀʀᴇ ★ ꜱᴜᴘᴘᴏʀᴛ</b></i>"""
+
 
     IMDB_TEMPLATE_TXT = """
 <i><b>📟 Movie Name</b></i> : <i><b><a href={url}>{title}</a></b></i>
